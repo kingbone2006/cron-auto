@@ -1,8 +1,1 @@
-https://cltx123.site/public/api/cron/get-giao-dich?cron
-https://cltx123.site/public/api/cron/get-tra-thuong-tuan?cron
-https://cltx123.site/public/api/cron/xu-li-giao-dich?cron
-https://cltx123.site/public/api/cron/xu-li-giao-dich-loi?cron
-https://cltx123.site/public/api/cron/xu-li-no-hu?cron
-https://cltx123.site/public/api/cron/xu-li-no-hu-loi?cron
-https://cltx123.site/public/api/cron/xu-li-thuong-tuan?cron
-https://cltx123.site/public/api/cron/xu-li-thuong-tuan-loi?cron
+link cron
